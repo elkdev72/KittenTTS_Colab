@@ -8,7 +8,7 @@ Run [KittenTTS](https://github.com/KittenML/KittenTTS) in your browser — no GP
 
 ## 🎬 Demo
 
-> Watch the full tutorial on YouTube: **[link to your video]**
+> Watch the full tutorial on YouTube: **https://youtu.be/xidLnb8vwtk?si=zdTwt-NO7hJizaUy**
 
 ---
 
@@ -78,7 +78,7 @@ A ready-to-run Colab notebook with a clean Gradio interface for KittenTTS — a 
 
 - [KittenTTS](https://github.com/KittenML/KittenTTS) by KittenML / Stellon Labs
 - [Gradio](https://gradio.app) for the UI
-- Notebook by **[elkdev72]**
+- Notebook by **elkdev72**
 
 ---
 
